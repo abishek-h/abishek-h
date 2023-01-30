@@ -4,7 +4,6 @@
 
 - I'm interested in Web development and Cloud.
 - I’m currently learning ReactJs.
----
 
 ### Tech Stack:
 <img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -16,7 +15,7 @@
 <br />
 
 #
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CR4YTH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
 **cr4yth/cr4yth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
