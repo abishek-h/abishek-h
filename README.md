@@ -3,7 +3,7 @@
 **`Developer`**
 
 - I'm interested in Web development and Cloud.
-- I’m currently learning ReactJs.
+- I’m currently learning NextJs.
 - contact me at : abixshek@gmail.com.
 - I'm open to collaborating on anything.
 
