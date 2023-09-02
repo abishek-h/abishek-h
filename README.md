@@ -6,7 +6,7 @@
 - I’m currently learning NextJs.
 - contact me at : abixshek@gmail.com.
 - I'm open to collaborating on anything.
-- 
+
 ### Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abishek_.h/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abishek-h-26a527206/) 
 
