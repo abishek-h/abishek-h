@@ -1,9 +1,8 @@
 ### ABISHEK H 
 
 **`Developer`**
-- I'm currently working on [Aspirify](https://github.com/abishek-h/Aspirify).
 - I'm interested in Web development and Cloud.
-- I’m currently learning **NextJs**.
+- I’m currently learning **ExpressJs**.
 - contact me at : abixshek@gmail.com.
 - I'm open to collaborating on anything.
 
