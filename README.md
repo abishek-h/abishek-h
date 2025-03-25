@@ -1,9 +1,9 @@
 ### ABISHEK H 
 
 **`Developer`**
-- I'm interested in Full Stack Development.
-- I’m currently learning **ExpressJs**.
-- contact me at : abixshek@gmail.com.
+- I'm interested in Full Stack Development and Artificial Intelligence.
+- I’m currently learning **Django**.
+- contact me at : abishekprasad36@gmail.com.
 - I'm open to collaborating on anything.
 
 ### Socials:
